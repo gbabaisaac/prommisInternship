@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prommisInternship/static/css/main.7b2290bb.css",
+    "main.js": "/prommisInternship/static/js/main.e31da3d4.js",
+    "static/js/488.e552e529.chunk.js": "/prommisInternship/static/js/488.e552e529.chunk.js",
+    "static/media/ExpData.csv": "/prommisInternship/static/media/ExpData.355bae036222a9ae69ac.csv",
+    "index.html": "/prommisInternship/index.html",
+    "main.7b2290bb.css.map": "/prommisInternship/static/css/main.7b2290bb.css.map",
+    "main.e31da3d4.js.map": "/prommisInternship/static/js/main.e31da3d4.js.map",
+    "488.e552e529.chunk.js.map": "/prommisInternship/static/js/488.e552e529.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2290bb.css",
+    "static/js/main.e31da3d4.js"
+  ]
+}
