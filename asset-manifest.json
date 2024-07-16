@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/prommisInternship/static/css/main.3f67d2c5.css",
-    "main.js": "/prommisInternship/static/js/main.8376e006.js",
+    "main.js": "/prommisInternship/static/js/main.7eb8227d.js",
     "static/js/488.e552e529.chunk.js": "/prommisInternship/static/js/488.e552e529.chunk.js",
     "static/media/ExpData.csv": "/prommisInternship/static/media/ExpData.355bae036222a9ae69ac.csv",
     "index.html": "/prommisInternship/index.html",
     "main.3f67d2c5.css.map": "/prommisInternship/static/css/main.3f67d2c5.css.map",
-    "main.8376e006.js.map": "/prommisInternship/static/js/main.8376e006.js.map",
+    "main.7eb8227d.js.map": "/prommisInternship/static/js/main.7eb8227d.js.map",
     "488.e552e529.chunk.js.map": "/prommisInternship/static/js/488.e552e529.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f67d2c5.css",
-    "static/js/main.8376e006.js"
+    "static/js/main.7eb8227d.js"
   ]
 }
