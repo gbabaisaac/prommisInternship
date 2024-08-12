@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/prommisInternship/static/css/main.3f67d2c5.css",
-    "main.js": "/prommisInternship/static/js/main.7eb8227d.js",
-    "static/js/488.e552e529.chunk.js": "/prommisInternship/static/js/488.e552e529.chunk.js",
+    "main.css": "/prommisInternship/static/css/main.136e506c.css",
+    "main.js": "/prommisInternship/static/js/main.72a15f8e.js",
     "static/media/ExpData.csv": "/prommisInternship/static/media/ExpData.355bae036222a9ae69ac.csv",
     "index.html": "/prommisInternship/index.html",
-    "main.3f67d2c5.css.map": "/prommisInternship/static/css/main.3f67d2c5.css.map",
-    "main.7eb8227d.js.map": "/prommisInternship/static/js/main.7eb8227d.js.map",
-    "488.e552e529.chunk.js.map": "/prommisInternship/static/js/488.e552e529.chunk.js.map"
+    "main.136e506c.css.map": "/prommisInternship/static/css/main.136e506c.css.map",
+    "main.72a15f8e.js.map": "/prommisInternship/static/js/main.72a15f8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f67d2c5.css",
-    "static/js/main.7eb8227d.js"
+    "static/css/main.136e506c.css",
+    "static/js/main.72a15f8e.js"
   ]
 }
